@@ -1,0 +1,2 @@
+# funnyidea
+first git repository
